@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Approval engine to use for the cert_follow_on_task table.  Valid options are: 'approval_rules' to use Approval Rules, 'process_guide' to use Process Guides and 'off' to turn off the approval engines for the table (set to 'off' when using Workflow to manage approvals). Off is the default setting.</description>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.approval_engine.cert_follow_on_task</name>
+        <read_roles/>
+        <suffix>x_58872_needit</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-15 14:29:29</sys_created_on>
+        <sys_id>1fb0a1e7db1510108d94e9c94896193e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.approval_engine.cert_follow_on_task</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_1fb0a1e7db1510108d94e9c94896193e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-15 14:29:29</sys_updated_on>
+        <type>string</type>
+        <value>off</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=1fb0a1e7db1510108d94e9c94896193e"/>
+</record_update>

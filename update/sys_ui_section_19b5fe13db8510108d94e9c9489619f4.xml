@@ -4,13 +4,13 @@
             <element>comments</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-02 15:47:55</sys_created_on>
-            <sys_id>5106f253db8510108d94e9c9489619fb</sys_id>
+            <sys_created_on>2020-06-15 14:35:57</sys_created_on>
+            <sys_id>4a32e92bdb1510108d94e9c9489619b8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_dkl_needit" sys_domain="global" view="Default view">19b5fe13db8510108d94e9c9489619f4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-02 15:47:55</sys_updated_on>
+            <sys_updated_on>2020-06-15 14:35:57</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,27 +18,69 @@
             <element>work_notes</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-02 15:47:55</sys_created_on>
-            <sys_id>d106f253db8510108d94e9c9489619fb</sys_id>
+            <sys_created_on>2020-06-15 14:35:57</sys_created_on>
+            <sys_id>ca32e92bdb1510108d94e9c9489619b8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_dkl_needit" sys_domain="global" view="Default view">19b5fe13db8510108d94e9c9489619f4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-02 15:47:55</sys_updated_on>
+            <sys_updated_on>2020-06-15 14:35:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-15 14:35:57</sys_created_on>
+            <sys_id>4e32e92bdb1510108d94e9c9489619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_dkl_needit" sys_domain="global" view="Default view">19b5fe13db8510108d94e9c9489619f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-15 14:35:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval_history</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-15 14:35:57</sys_created_on>
+            <sys_id>ce32e92bdb1510108d94e9c9489619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_dkl_needit" sys_domain="global" view="Default view">19b5fe13db8510108d94e9c9489619f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-15 14:35:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval_set</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-15 14:35:57</sys_created_on>
+            <sys_id>4232e92bdb1510108d94e9c9489619b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_dkl_needit" sys_domain="global" view="Default view">19b5fe13db8510108d94e9c9489619f4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-15 14:35:57</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>activity.xml</element>
-            <position>2</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-02 15:47:55</sys_created_on>
-            <sys_id>5506f253db8510108d94e9c9489619fb</sys_id>
+            <sys_created_on>2020-06-15 14:35:57</sys_created_on>
+            <sys_id>c232e92bdb1510108d94e9c9489619b9</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
             <sys_ui_section caption="Log" display_value="Log" name="x_58872_needit_dkl_needit" sys_domain="global" view="Default view">19b5fe13db8510108d94e9c9489619f4</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-02 15:47:55</sys_updated_on>
+            <sys_updated_on>2020-06-15 14:35:57</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>
