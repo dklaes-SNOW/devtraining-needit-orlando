@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-17 16:32:09</sys_created_on>
-            <sys_id>e3ff8854dba510108d94e9c948961981</sys_id>
+            <sys_created_on>2020-06-19 14:45:08</sys_created_on>
+            <sys_id>a7aa46f8db6150108d94e9c94896194f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_dkl_needit_task" sys_domain="global" view="Default view">fa8f4814dba510108d94e9c94896192c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-17 16:32:09</sys_updated_on>
+            <sys_updated_on>2020-06-19 14:45:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>assigned_to</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-17 16:32:09</sys_created_on>
-            <sys_id>67ff8854dba510108d94e9c948961981</sys_id>
+            <sys_created_on>2020-06-19 14:45:08</sys_created_on>
+            <sys_id>63aa46f8db6150108d94e9c948961950</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_dkl_needit_task" sys_domain="global" view="Default view">fa8f4814dba510108d94e9c94896192c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-17 16:32:09</sys_updated_on>
+            <sys_updated_on>2020-06-19 14:45:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>due_date</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-17 16:32:09</sys_created_on>
-            <sys_id>e7ff8854dba510108d94e9c948961981</sys_id>
+            <sys_created_on>2020-06-19 14:45:08</sys_created_on>
+            <sys_id>e3aa46f8db6150108d94e9c948961950</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_dkl_needit_task" sys_domain="global" view="Default view">fa8f4814dba510108d94e9c94896192c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-17 16:32:09</sys_updated_on>
+            <sys_updated_on>2020-06-19 14:45:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>.split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-17 16:32:09</sys_created_on>
-            <sys_id>6bff8854dba510108d94e9c948961981</sys_id>
+            <sys_created_on>2020-06-19 14:45:08</sys_created_on>
+            <sys_id>67aa46f8db6150108d94e9c948961950</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_dkl_needit_task" sys_domain="global" view="Default view">fa8f4814dba510108d94e9c94896192c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-17 16:32:09</sys_updated_on>
+            <sys_updated_on>2020-06-19 14:45:08</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>priority</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-17 16:32:09</sys_created_on>
-            <sys_id>ebff8854dba510108d94e9c948961981</sys_id>
+            <sys_created_on>2020-06-19 14:45:08</sys_created_on>
+            <sys_id>e7aa46f8db6150108d94e9c948961950</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_dkl_needit_task" sys_domain="global" view="Default view">fa8f4814dba510108d94e9c94896192c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-17 16:32:09</sys_updated_on>
+            <sys_updated_on>2020-06-19 14:45:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>state</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-17 16:32:09</sys_created_on>
-            <sys_id>6fff8854dba510108d94e9c948961981</sys_id>
+            <sys_created_on>2020-06-19 14:45:08</sys_created_on>
+            <sys_id>6baa46f8db6150108d94e9c948961950</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_dkl_needit_task" sys_domain="global" view="Default view">fa8f4814dba510108d94e9c94896192c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-17 16:32:09</sys_updated_on>
+            <sys_updated_on>2020-06-19 14:45:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>.end_split</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-17 16:32:09</sys_created_on>
-            <sys_id>efff8854dba510108d94e9c948961981</sys_id>
+            <sys_created_on>2020-06-19 14:45:08</sys_created_on>
+            <sys_id>ebaa46f8db6150108d94e9c948961950</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_dkl_needit_task" sys_domain="global" view="Default view">fa8f4814dba510108d94e9c94896192c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-17 16:32:09</sys_updated_on>
+            <sys_updated_on>2020-06-19 14:45:08</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>short_description</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-17 16:32:09</sys_created_on>
-            <sys_id>63ff8854dba510108d94e9c948961982</sys_id>
+            <sys_created_on>2020-06-19 14:45:08</sys_created_on>
+            <sys_id>6faa46f8db6150108d94e9c948961950</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_dkl_needit_task" sys_domain="global" view="Default view">fa8f4814dba510108d94e9c94896192c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-17 16:32:09</sys_updated_on>
+            <sys_updated_on>2020-06-19 14:45:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>description</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-17 16:32:09</sys_created_on>
-            <sys_id>e3ff8854dba510108d94e9c948961982</sys_id>
+            <sys_created_on>2020-06-19 14:45:08</sys_created_on>
+            <sys_id>efaa46f8db6150108d94e9c948961950</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_dkl_needit_task" sys_domain="global" view="Default view">fa8f4814dba510108d94e9c94896192c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-17 16:32:09</sys_updated_on>
+            <sys_updated_on>2020-06-19 14:45:08</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -130,15 +130,29 @@
             <element>work_notes</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-06-17 16:32:09</sys_created_on>
-            <sys_id>67ff8854dba510108d94e9c948961982</sys_id>
+            <sys_created_on>2020-06-19 14:45:08</sys_created_on>
+            <sys_id>63aa46f8db6150108d94e9c948961951</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_dkl_needit_task" sys_domain="global" view="Default view">fa8f4814dba510108d94e9c94896192c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-06-17 16:32:09</sys_updated_on>
+            <sys_updated_on>2020-06-19 14:45:08</sys_updated_on>
             <sys_user/>
             <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-06-19 14:45:08</sys_created_on>
+            <sys_id>e3aa46f8db6150108d94e9c948961951</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_dkl_needit_task" sys_domain="global" view="Default view">fa8f4814dba510108d94e9c94896192c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-06-19 14:45:08</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
