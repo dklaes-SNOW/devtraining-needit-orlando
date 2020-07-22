@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="wf_workflow_version">
     <wf_workflow_version action="INSERT_OR_UPDATE">
         <active>true</active>
-        <activity_stages>{"activities":{},"subflows":[],"stages":{},"ends":["80dbd754db2110108d94e9c94896197e"]}</activity_stages>
+        <activity_stages>{"activities":{},"ends":["80dbd754db2110108d94e9c94896197e"],"stages":{},"subflows":[]}</activity_stages>
         <after_business_rules>false</after_business_rules>
         <checked_out/>
         <checked_out_by/>
@@ -33,9 +33,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-06-18 07:22:38</sys_created_on>
         <sys_id>b7cb5354db2110108d94e9c948961934</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-06-18 07:24:45</sys_updated_on>
+        <sys_updated_on>2020-07-22 07:36:45</sys_updated_on>
         <table>x_58872_needit_dkl_needit</table>
         <timezone/>
         <validated>true</validated>
