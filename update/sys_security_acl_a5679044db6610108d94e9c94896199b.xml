@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <condition table="x_58872_needit_dkl_needit">u_dkl_requested_forDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ<item endquery="false" field="u_dkl_requested_for" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description>Allow read for records in x_58872_needit_dkl_needit, for users with role snc_internal, and if the ACL script returns true, and if the ACL condition (u_dkl_requested_forDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ) evaluates to true.</description>
+        <name>x_58872_needit_dkl_needit</name>
+        <operation display_value="read">read</operation>
+        <script><![CDATA[current.isNewRecord();]]></script>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-05 15:31:00</sys_created_on>
+        <sys_id>a5679044db6610108d94e9c94896199b</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>x_58872_needit_dkl_needit</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_security_acl_a5679044db6610108d94e9c94896199b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-05 15:56:08</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
