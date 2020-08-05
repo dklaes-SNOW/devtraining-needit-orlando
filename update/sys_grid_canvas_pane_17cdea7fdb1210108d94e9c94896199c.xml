@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA DKL_NeedIT Applicati - New Tab">4d9c6a3fdb1210108d94e9c9489619ce</grid_canvas>
+        <height>14</height>
+        <portal_widget display_value="Created 05-08-2020 09:47:27">1bcdea7fdb1210108d94e9c94896199a</portal_widget>
+        <posx>4</posx>
+        <posy>10</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-05 07:47:27</sys_created_on>
+        <sys_id>17cdea7fdb1210108d94e9c94896199c</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>4d9c6a3fdb1210108d94e9c9489619ce</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_17cdea7fdb1210108d94e9c94896199c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-05 09:46:57</sys_updated_on>
+        <width>8</width>
+    </sys_grid_canvas_pane>
+</record_update>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_widget_indicators">
+    <pa_widget_indicators action="INSERT_OR_UPDATE">
+        <aggregate/>
+        <breakdown display_value="DKL_NeedIt_Request type">22e7399bdb1610108d94e9c9489619c4</breakdown>
+        <breakdown_level2/>
+        <chart_type>line</chart_type>
+        <color/>
+        <element/>
+        <element_level2/>
+        <elements_filter/>
+        <follow_element>false</follow_element>
+        <follow_managed_element>false</follow_managed_element>
+        <followed_breakdown/>
+        <indicator display_value="DKL_NeedIt: Active Weekly">6ec5355bdb1610108d94e9c94896198c</indicator>
+        <label/>
+        <order>10</order>
+        <second_y_axis>false</second_y_axis>
+        <sys_class_name>pa_widget_indicators</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-05 08:03:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1541f233db5210108d94e9c9489619ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>pa_widget_indicators_1541f233db5210108d94e9c9489619ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-05 08:03:53</sys_updated_on>
+        <widget display_value="DKL_NeedIt Workbench weekly">50f072ffdb1210108d94e9c9489619d7</widget>
+        <widget_indicator/>
+    </pa_widget_indicators>
+</record_update>
