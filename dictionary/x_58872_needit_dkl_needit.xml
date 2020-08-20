@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" extends="task" label="DKL_Needit" max_length="40" name="x_58872_needit_dkl_needit" sizeclass="20" type="collection">
+    <element audit="true" extends="task" label="DKL_Needit" max_length="40" name="x_58872_needit_dkl_needit" sizeclass="26" type="collection">
         <element attributes="target_field=percent_complete_target,target_threshold_colors=0:#FFD700;33:#FFDAB9;66:#FF8C00;90:#2E8B57,target_field=target" label="% complete" max_length="15" name="complete" type="percent_complete"/>
         <element label="Target" max_length="20" name="target" type="decimal"/>
         <element attributes="edge_encryption_enabled=true" label="Other" max_length="40" name="u_dkl_other" type="string"/>
