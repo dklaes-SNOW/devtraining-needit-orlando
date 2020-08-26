@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="DELETE">
+        <button display_value="DKL_Update Prio">9b079b96dbf210108d94e9c94896196b</button>
+        <button_parent_table/>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>none</default_value_type>
+        <field_name>priority</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>list</input_type>
+        <mandatory>true</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>DKL_Change Priority</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder>Enter a new value for Priority</placeholder>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field/>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-25 15:36:27</sys_created_on>
+        <sys_id>f6185fd6dbf210108d94e9c948961915</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>DKL_Change Priority</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_f6185fd6dbf210108d94e9c948961915</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-25 18:32:21</sys_updated_on>
+        <table_name>x_58872_needit_dkl_needit</table_name>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="DELETE" query="documentkey=f6185fd6dbf210108d94e9c948961915"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>ea73303bdbd0f340b847ac44d4961992</instance_id>
+        <instance_name>dev77285</instance_name>
+        <name>sys_sg_ui_parameter_f6185fd6dbf210108d94e9c948961915</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter"><sys_sg_ui_parameter action="INSERT_OR_UPDATE"><button display_value="DKL_Update Prio">9b079b96dbf210108d94e9c94896196b</button><button_parent_table/><carried>false</carried><constant/><default_value/><default_value_type>none</default_value_type><field_name>priority</field_name><input_source>user</input_source><input_style>inline</input_style><input_type>list</input_type><mandatory>true</mandatory><max_entries/><multi_entry>false</multi_entry><multi_select>false</multi_select><name>DKL_Change Priority</name><order/><parameter_type>button</parameter_type><placeholder>Enter a new value for Priority</placeholder><screen/><search_type>starts_with</search_type><source_field/><sys_class_name>sys_sg_ui_parameter</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-25 15:36:27</sys_created_on><sys_id>f6185fd6dbf210108d94e9c948961915</sys_id><sys_mod_count>3</sys_mod_count><sys_name>DKL_Change Priority</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_ui_parameter_f6185fd6dbf210108d94e9c948961915</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-25 18:32:21</sys_updated_on><table_name>x_58872_needit_dkl_needit</table_name></sys_sg_ui_parameter><sys_translated_text action="delete_multiple" query="documentkey=f6185fd6dbf210108d94e9c948961915"/></record_update>]]></payload>
+        <payload_hash>1231662196</payload_hash>
+        <record_name>DKL_Change Priority</record_name>
+        <reverted_from/>
+        <source>4906273fdb8950108d94e9c94896193a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-25 18:32:21</sys_created_on>
+        <sys_id>0d3100e2db7610108d94e9c9489619a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17426e477ae0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-25 18:32:21</sys_updated_on>
+        <type>UI parameter</type>
+        <update_guid>453100e22c7610107f43c5e1bd34c4a8</update_guid>
+        <update_guid_history>453100e22c7610107f43c5e1bd34c4a8:1231662196,ddd04ca2a376101060c9181b155d3e5c:-302321595,d87ffb9280761010d05cb8a72e6389df:1231662196,e4f8571a45f21010cbfa6139c9c276a0:1466265165</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-25 18:58:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_parameter">sys_sg_ui_parameter</sys_db_object>
+        <sys_id>00ba70aea34b42dd940eda65df67a7e1</sys_id>
+        <sys_metadata>f6185fd6dbf210108d94e9c948961915</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DKL_Change Priority</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_parameter_f6185fd6dbf210108d94e9c948961915</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_parameter_f6185fd6dbf210108d94e9c948961915">0d3100e2db7610108d94e9c9489619a8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-25 18:58:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

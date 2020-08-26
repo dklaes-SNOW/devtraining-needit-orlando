@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="DELETE">
+        <description>Action Item to update the Priority field value on a NeedIt record.</description>
+        <execution_script/>
+        <name>DKL_Update NeedIt Priority</name>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-25 10:35:00</sys_created_on>
+        <sys_id>49a31adadb3210108d94e9c948961995</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>DKL_Update NeedIt Priority</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_49a31adadb3210108d94e9c948961995</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-25 18:47:44</sys_updated_on>
+        <table>x_58872_needit_dkl_needit</table>
+        <template/>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="DELETE" query="documentkey=49a31adadb3210108d94e9c948961995"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>ea73303bdbd0f340b847ac44d4961992</instance_id>
+        <instance_name>dev77285</instance_name>
+        <name>sys_sg_write_back_action_item_49a31adadb3210108d94e9c948961995</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item"><sys_sg_write_back_action_item action="INSERT_OR_UPDATE"><description>Action Item to update the Priority field value on a NeedIt record.</description><execution_script/><name>DKL_Update NeedIt Priority</name><query_condition/><sys_class_name>sys_sg_write_back_action_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-25 10:35:00</sys_created_on><sys_id>49a31adadb3210108d94e9c948961995</sys_id><sys_mod_count>10</sys_mod_count><sys_name>DKL_Update NeedIt Priority</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_write_back_action_item_49a31adadb3210108d94e9c948961995</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-25 18:47:44</sys_updated_on><table>x_58872_needit_dkl_needit</table><template/><type>update</type><use_current_record_as_condition>true</use_current_record_as_condition></sys_sg_write_back_action_item><sys_translated_text action="delete_multiple" query="documentkey=49a31adadb3210108d94e9c948961995"/></record_update>]]></payload>
+        <payload_hash>-1185730394</payload_hash>
+        <record_name>DKL_Update NeedIt Priority</record_name>
+        <reverted_from/>
+        <source>4906273fdb8950108d94e9c94896193a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-25 18:47:44</sys_created_on>
+        <sys_id>26b4c466db7610108d94e9c9489619ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17426f28e310000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-25 18:47:44</sys_updated_on>
+        <type>Action item</type>
+        <update_guid>6eb4c4668a761010b8a5deda88de24ad</update_guid>
+        <update_guid_history>6eb4c4668a761010b8a5deda88de24ad:-1185730394,13734866f3761010053945bd2f81b08a:184711892,21630866817610103ac3650262125a4c:-1185730394,74897b9e0e361010d8829714b496d7be:-602084194,01797b9eef361010412720de88cae216:-1926372231,5203fb5a9f3610109381c7ff4e6e5461:-165823496,f0f2f75ab5361010bab24b415e420b2e:-1185730394,cd7a175a4af210104266300703e7643a:-410056282,4d861e5e3f3210102a56965589f67262:1053579708,ebf55eda42321010c12583597a75dad0:-410056282,f0f312dae1321010df29e8a11a48808b:-1185730394</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-25 19:00:02</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_write_back_action_item">sys_sg_write_back_action_item</sys_db_object>
+        <sys_id>1ceaceb1bbef4c188ef8aabdb560db84</sys_id>
+        <sys_metadata>49a31adadb3210108d94e9c948961995</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DKL_Update NeedIt Priority</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_write_back_action_item_49a31adadb3210108d94e9c948961995</sys_update_name>
+        <sys_update_version display_value="sys_sg_write_back_action_item_49a31adadb3210108d94e9c948961995">26b4c466db7610108d94e9c9489619ae</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-25 19:00:02</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

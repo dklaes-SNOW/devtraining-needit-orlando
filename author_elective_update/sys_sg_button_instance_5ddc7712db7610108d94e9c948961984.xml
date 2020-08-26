@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="DKL_Update Prio">9b079b96dbf210108d94e9c94896196b</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>update Prio</label>
+        <location>top</location>
+        <name>update Prio</name>
+        <order>10</order>
+        <parent>bb750bcddbfe50108d94e9c9489619b6</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-25 18:13:14</sys_created_on>
+        <sys_id>5ddc7712db7610108d94e9c948961984</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>update Prio</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_button_instance_5ddc7712db7610108d94e9c948961984</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-25 18:13:14</sys_updated_on>
+        <table>x_58872_needit_dkl_needit</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=5ddc7712db7610108d94e9c948961984"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>ea73303bdbd0f340b847ac44d4961992</instance_id>
+        <instance_name>dev77285</instance_name>
+        <name>sys_sg_button_instance_5ddc7712db7610108d94e9c948961984</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="DKL_Update Prio">9b079b96dbf210108d94e9c94896196b</button><color_theme>primary</color_theme><description/><field_name/><icon/><label>update Prio</label><location>top</location><name>update Prio</name><order>10</order><parent>bb750bcddbfe50108d94e9c9489619b6</parent><parent_table>sys_sg_screen</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-25 18:13:14</sys_created_on><sys_id>5ddc7712db7610108d94e9c948961984</sys_id><sys_mod_count>0</sys_mod_count><sys_name>update Prio</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_sg_button_instance_5ddc7712db7610108d94e9c948961984</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-25 18:13:14</sys_updated_on><table>x_58872_needit_dkl_needit</table></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=5ddc7712db7610108d94e9c948961984"/></record_update>]]></payload>
+        <payload_hash>2009602728</payload_hash>
+        <record_name>update Prio</record_name>
+        <reverted_from/>
+        <source>4906273fdb8950108d94e9c94896193a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-25 18:13:15</sys_created_on>
+        <sys_id>dddc7712db7610108d94e9c948961986</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17426d2facc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-25 18:13:15</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>19dc7712f4761010571432cdf8076786</update_guid>
+        <update_guid_history>19dc7712f4761010571432cdf8076786:2009602728</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-25 19:00:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>0327f207b0054600a4d39cf80e50f900</sys_id>
+        <sys_metadata>5ddc7712db7610108d94e9c948961984</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>update Prio</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_5ddc7712db7610108d94e9c948961984</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_5ddc7712db7610108d94e9c948961984">dddc7712db7610108d94e9c948961986</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-25 19:00:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
