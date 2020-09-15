@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="DKL_NeedIt Import REST" max_length="40" name="x_58872_needit_dkl_needit_import_rest" type="collection">
+    <element extends="sys_import_set_row" label="DKL_NeedIt Import REST" max_length="40" name="x_58872_needit_dkl_needit_import_rest" sizeclass="0" type="collection">
         <element attributes="edge_encryption_enabled=true,import_attribute_name=u_active" label="Active" max_length="40" name="u_active" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=u_activity_due" label="Activity due" max_length="40" name="u_activity_due" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=u_additional_assignee_list" label="Additional assignee list" max_length="40" name="u_additional_assignee_list" type="string"/>

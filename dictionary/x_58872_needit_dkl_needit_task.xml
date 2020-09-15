@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" extends="task" label="DKL_NeedIt Task" max_length="40" name="x_58872_needit_dkl_needit_task" sizeclass="52" type="collection">
+    <element audit="true" extends="task" label="DKL_NeedIt Task" max_length="40" name="x_58872_needit_dkl_needit_task" sizeclass="54" type="collection">
         <element attributes="edge_encryption_enabled=true" default="DKL_NeedIt" label="DKL_NeedIT" max_length="40" name="u_string_1" type="string"/>
     </element>
 </database>
