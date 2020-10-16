@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>300</order>
+        <role display_value="x_58872_needit.dkl_needit_itil" name="x_58872_needit.dkl_needit_itil">848b0b78dbf310108d94e9c94896197d</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-09 15:55:24</sys_created_on>
+        <sys_id>41dc8b38dbf310108d94e9c9489619f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>848b0b78dbf310108d94e9c94896197d</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_embedded_help_role_41dc8b38dbf310108d94e9c9489619f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-09 15:55:24</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

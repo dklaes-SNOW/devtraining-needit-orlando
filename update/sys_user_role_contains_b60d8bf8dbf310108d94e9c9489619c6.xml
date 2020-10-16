@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_58872_needit.dkl_needit_user" name="x_58872_needit.dkl_needit_user">6855165fdb0510108d94e9c948961996</contains>
+        <role display_value="x_58872_needit.dkl_needit_itil" name="x_58872_needit.dkl_needit_itil">848b0b78dbf310108d94e9c94896197d</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-09 15:56:21</sys_created_on>
+        <sys_id>b60d8bf8dbf310108d94e9c9489619c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.dkl_needit_user.x_58872_needit.dkl_needit_itil</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_user_role_contains_b60d8bf8dbf310108d94e9c9489619c6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-09 15:56:21</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
