@@ -6,19 +6,19 @@
         <action_insert>true</action_insert>
         <action_query>false</action_query>
         <action_update>true</action_update>
-        <active>false</active>
+        <active>true</active>
         <add_message>false</add_message>
         <advanced>true</advanced>
         <change_fields>false</change_fields>
         <client_callable>false</client_callable>
-        <collection>x_58872_needit_dkl_needit</collection>
+        <collection>x_58872_needit_dkl_needit_task</collection>
         <condition/>
         <description/>
         <execute_function>false</execute_function>
         <filter_condition/>
         <is_rest>false</is_rest>
         <message/>
-        <name>DKL_NeedIt When needed field date2</name>
+        <name>DKL_Domain - Set Domain - NeedIt Task</name>
         <order>100</order>
         <priority>100</priority>
         <rest_method/>
@@ -27,48 +27,33 @@
         <rest_service_text/>
         <rest_variables/>
         <role_conditions/>
-        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
-// Instantiate the NeedItUtils class.  Call the isDatePast method and pass 
-	// the u_when_needed value.
-	var niutils = new NeedItUtils();
-	var isPast = niutils.isDatePast(current.u_dkl_when_needed);
-	
-	// If the isDatePast method returns true, the date is in the past.
-	if(isPast == true){
-		gs.addErrorMessage("DKL When needed date cannot be in the past.  Your request has not been saved to the database.");
-		current.setAbortAction(true);
-	}
-	
-	var isToday=niutils.isDateToday(current.u_dkl_when_needed);
+        <script><![CDATA[syncDomainFromNeedIt();
 
-	
-// if the isDateToday method returns true the When needed date is today 	
- 
-	if (isToday== true){
-		gs.addErrorMessage("You cannot submit NeedIt requests for today.");
-		current.setAbortAction(true);
-	}
-	//if (isToday==false){
-	//	gs.addErrorMessage("tst");
-//	}
-})(current, previous);]]></script>
+function syncDomainFromNeedIt() {
+
+    // Set the Domain for the NeedIt Task from the Domain of the parent NeedIt record.	
+    if (current.u_dkl_needit.changes()) {
+        current.sys_domain = current.u_dkl_needit.sys_domain;
+        return;
+    }
+}]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-06-09 12:13:00</sys_created_on>
+        <sys_created_on>2020-10-16 16:29:23</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>e1f7c2addb9110108d94e9c948961996</sys_id>
-        <sys_mod_count>24</sys_mod_count>
-        <sys_name>DKL_NeedIt When needed field date2</sys_name>
+        <sys_id>bd379f87dbb350108d94e9c948961917</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>DKL_Domain - Set Domain - NeedIt Task</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_script_e1f7c2addb9110108d94e9c948961996</sys_update_name>
+        <sys_update_name>sys_script_bd379f87dbb350108d94e9c948961917</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-10-20 11:00:34</sys_updated_on>
+        <sys_updated_on>2020-10-16 16:51:40</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
-    <sys_translated_text action="delete_multiple" query="documentkey=e1f7c2addb9110108d94e9c948961996"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=bd379f87dbb350108d94e9c948961917"/>
 </record_update>

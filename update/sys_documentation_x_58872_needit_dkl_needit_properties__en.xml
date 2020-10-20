@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="DKL_NeedIT Properties" language="en" table="x_58872_needit_dkl_needit_properties">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>DKL_NeedIT Properties</label>
+            <language>en</language>
+            <name>x_58872_needit_dkl_needit_properties</name>
+            <plural>DKL_NeedIT Properties</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-20 10:24:08</sys_created_on>
+            <sys_id>9b7aa650db8020108d94e9c9489619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>DKL_NeedIT Properties</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_documentation_x_58872_needit_dkl_needit_properties__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-20 10:24:08</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
